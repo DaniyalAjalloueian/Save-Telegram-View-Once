@@ -1,4 +1,4 @@
-# 📸 Telegram Media Saver
+# 📸 Save Telegram View Once
 
 A lightweight **Telegram userbot** built with [Telethon](https://github.com/LonamiWebs/Telethon) that lets you save view once messages directly to your **Saved Messages** by replying to them with a custom save command.
 
@@ -118,7 +118,7 @@ You will need to create an application under **API Development Tools**.
 
 ```bash
 git clone https://github.com/DaniyalAjalloueian/Save-Telegram-View-Once.git
-cd telegram-media-saver
+cd Save-Telegram-View-Once
 ```
 
 ## 2. Create a Virtual Environment
